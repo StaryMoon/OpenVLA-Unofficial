@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the original paper."
+title: "OpenVLA: An Open-Source Vision-Language-Action Model"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Minghao
+repository-code: "https://github.com/StaryMoon/OpenVLA-Unofficial"
+license: MIT
+preferred-citation:
+  type: article
+  title: "OpenVLA: An Open-Source Vision-Language-Action Model"
+  authors:
+    - family-names: Kim
+      given-names: Moo Jin
+    - family-names: Pertsch
+      given-names: Karl
+    - family-names: Karamcheti
+      given-names: Siddharth
+    - family-names: Xiao
+      given-names: Ted
+    - family-names: Balakrishna
+      given-names: Ashwin
+    - family-names: Nair
+      given-names: Suraj
+    - family-names: Rafailov
+      given-names: Rafael
+    - family-names: Foster
+      given-names: Ethan
+    - family-names: Lam
+      given-names: Grace
+    - family-names: Sanketi
+      given-names: Pannag
+    - family-names: Vuong
+      given-names: Quan
+    - family-names: Kollar
+      given-names: Thomas
+    - family-names: Burchfiel
+      given-names: Benjamin
+    - family-names: Tedrake
+      given-names: Russ
+    - family-names: Sadigh
+      given-names: Dorsa
+    - family-names: Levine
+      given-names: Sergey
+    - family-names: Liang
+      given-names: Percy
+    - family-names: Finn
+      given-names: Chelsea
+  journal: "arXiv preprint arXiv:2406.09246"
+  year: 2024
+  url: "https://arxiv.org/abs/2406.09246"
